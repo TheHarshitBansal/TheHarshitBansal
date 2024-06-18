@@ -1,16 +1,40 @@
-## Hi there 👋
+# Harshit Bansal
 
-<!--
-**TheHarshitBansal/TheHarshitBansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate software developer with a keen interest in web development, open-source contributions, and continuous learning. Here you will find a collection of my projects, contributions, and collaborations.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name**: Harshit Bansal
+- **Email**: harshit.bansal@example.com
+- **GitHub**: [TheHarshitBansal](https://github.com/TheHarshitBansal)
+- **LinkedIn**: [Harshit Bansal](https://www.linkedin.com/in/harshit-bansal/)
+
+## Skills
+
+- **Languages**: JavaScript, C++, C, Java
+- **Frontend**: React.js, HTML, CSS, Bootstrap
+- **Backend**: Node.js
+- **Frameworks**: Express.js, React.js, Tailwind, Bootstrap
+- **Database**: MongoDB, MySQL
+- **Tools & Technologies**: Git, GitHub, REST APIs
+- 
+## Open Source Contributions
+
+I actively contribute to various open-source projects and communities. I believe in the power of open-source software and the collaborative effort of the developer community.
+
+## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out to me via email or connect with me on LinkedIn.
+
+- **Email**: harshit.bansal@example.com
+- **LinkedIn**: [Harshit Bansal](https://www.linkedin.com/in/harshit-bansal/)
+- **GitHub**: [TheHarshitBansal](https://github.com/TheHarshitBansal)
+
+## Stats
+
+![Harshit Bansal's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHarshitBansal&show_icons=true&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=TheHarshitBansal&color=blue&style=plastic)
+---
+
+Thank you for visiting my profile! Have a great day!
