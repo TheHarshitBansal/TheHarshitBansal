@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 ## About Me
 
 - **Name**: Harshit Bansal
-- **Email**: harshit.bansal@example.com
+- **Email**: harshitbansal1201@gmail.com
 - **GitHub**: [TheHarshitBansal](https://github.com/TheHarshitBansal)
-- **LinkedIn**: [Harshit Bansal](https://www.linkedin.com/in/harshit-bansal/)
+- **LinkedIn**: [Harshit Bansal](https://www.linkedin.com/in/theharshitbansal/)
 
 ## Skills
 
@@ -26,8 +26,8 @@ I actively contribute to various open-source projects and communities. I believe
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me via email or connect with me on LinkedIn.
 
-- **Email**: harshit.bansal@example.com
-- **LinkedIn**: [Harshit Bansal](https://www.linkedin.com/in/harshit-bansal/)
+- **Email**: harshitbansal1201@gmail.com
+- **LinkedIn**: [Harshit Bansal](https://www.linkedin.com/in/theharshitbansal/)
 - **GitHub**: [TheHarshitBansal](https://github.com/TheHarshitBansal)
 
 ## Stats
