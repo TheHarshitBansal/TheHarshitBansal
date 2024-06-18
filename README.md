@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 - **Frameworks**: Express.js, React.js, Tailwind, Bootstrap
 - **Database**: MongoDB, MySQL
 - **Tools & Technologies**: Git, GitHub, REST APIs
-- 
+  
 ## Open Source Contributions
 
 I actively contribute to various open-source projects and communities. I believe in the power of open-source software and the collaborative effort of the developer community.
@@ -31,8 +31,6 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 - **GitHub**: [TheHarshitBansal](https://github.com/TheHarshitBansal)
 
 ## Stats
-
-![Harshit Bansal's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHarshitBansal&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=TheHarshitBansal&color=blue&style=plastic)
 ---
