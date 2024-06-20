@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 
 - **Languages**: JavaScript, C++, C, Java
 - **Frontend**: React.js, HTML, CSS, Bootstrap, Tailwind
-- **Backend**: Node.js, Express.js
+- **Backend**: Node.js, Express.js, Next.js
 - **Database**: MongoDB, MySQL
 - **Tools & Technologies**: Git, GitHub, REST APIs
   
