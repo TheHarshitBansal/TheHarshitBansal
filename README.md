@@ -41,10 +41,6 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 ![Razorpay](https://img.shields.io/badge/-Razorpay-000?&logo=razorpay)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
 
-## Open Source Contributions
-
-I actively contribute to various open-source projects and communities. I believe in the power of open-source software and the collaborative effort of the developer community.
-
 ## Contact
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me via email or connect with me on LinkedIn.
