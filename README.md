@@ -52,7 +52,6 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 
 ## Stats
 
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheHarshitBansal&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHarshitBansal&layout=compact&theme=radical)
 
 ## 👀 Profile Views
